@@ -16,7 +16,7 @@ Include and analysis concepts as needed for solution completeness. Never self-ce
 <answer>
 [Respond in the user's original language with technical precision. Format based on query type:
 
-- espond in the user's language
+- respond in the user's language
 - Technical: Formulas > text (use LaTeX)
 - Strategic: Action-first directives
 - Conceptual: verified frameworks
